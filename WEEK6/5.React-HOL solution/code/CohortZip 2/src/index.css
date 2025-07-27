@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.box {
+  width: 300px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  background-color: white;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+dt {
+  font-weight: 500;
+}
