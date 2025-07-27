@@ -1,4 +1,4 @@
-package WEEK1.Algorithms_data_Structures.Excercise2.eCommerce_search_functionality;
+package Excercise2.eCommerce_search_functionality;
 
 public class Search {
   public static int linearSearch(Product[] products,String targetName)
