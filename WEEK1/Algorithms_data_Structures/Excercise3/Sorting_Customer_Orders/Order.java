@@ -1,4 +1,4 @@
-package Excercise3.Sorting_Customer_Orders;
+package WEEK1.Algorithms_data_Structures.Excercise3.Sorting_Customer_Orders;
 
 public class Order {
   int orderid;

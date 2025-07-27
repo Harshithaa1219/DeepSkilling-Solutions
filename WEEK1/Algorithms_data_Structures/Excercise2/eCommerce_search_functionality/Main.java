@@ -1,4 +1,4 @@
-package Excercise2.eCommerce_search_functionality;
+package WEEK1.Algorithms_data_Structures.Excercise2.eCommerce_search_functionality;
 
 import java.util.*;
 public class Main {

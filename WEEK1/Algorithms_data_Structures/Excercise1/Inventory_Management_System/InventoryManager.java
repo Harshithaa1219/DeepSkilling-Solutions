@@ -1,4 +1,4 @@
-package Excercise1.Inventory_Management_System;
+package WEEK1.Algorithms_data_Structures.Excercise1.Inventory_Management_System;
 
 import java.util.HashMap;
 
