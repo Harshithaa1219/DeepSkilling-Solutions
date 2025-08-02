@@ -1,0 +1,24 @@
+.column {
+  padding: 20px;
+}
+
+.left-column {
+  font-weight: bold;
+}
+
+.middle-column {
+  border-left: 4px solid green;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+.right-column {
+  border-left: 4px solid green;
+  padding-left: 20px;
+  font-weight: bold;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
